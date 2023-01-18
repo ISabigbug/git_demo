@@ -1,6 +1,6 @@
 Hello hot-fix!
 Hello Git! test3
-Hello Git!
+Hello Git! i am lanwenjing
 Hello Git! hot-fix test
 Hello Git!
 Hello Git! test2
