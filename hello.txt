@@ -1,7 +1,7 @@
 Hello hot-fix!
 Hello Git! master test
 Hello Git!
-Hello Git!
+Hello Git! hot-fix test
 Hello Git!
 Hello Git!
 Hello Git!
