@@ -1,5 +1,5 @@
 Hello hot-fix!
-Hello Git! master test3
+Hello Git! test3
 Hello Git!
 Hello Git! hot-fix test
 Hello Git!
@@ -13,7 +13,7 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
+Hello Git! test3
 Hello Git!
 Hello Git!
 Hello Git!
